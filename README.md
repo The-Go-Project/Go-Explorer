@@ -1,4 +1,4 @@
-# Chainlens
+# Go-Explorer
 
 Blockchain Explorer for Besu, Quorum and Ethereum-compatible blockchains
 
